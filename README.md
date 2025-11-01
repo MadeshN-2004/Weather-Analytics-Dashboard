@@ -1560,11 +1560,9 @@ SOFTWARE.
 
 ## 👨‍💻 Author
 
-**Your Name**
-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
-- 💼 LinkedIn: [Your Name](https://linkedin.com/in/yourname)
-- 🐙 GitHub: [@yourusername](https://github.com/yourusername)
-- 📧 Email: your.email@example.com
+**MADESH N**
+
+- 📧 Email: madeshnickil@gmail.com
 
 ---
 
@@ -1619,7 +1617,13 @@ SOFTWARE.
 *Main dashboard with multiple city cards*
 
 ### Detailed Weather View
-<img width="1234" height="955" alt="image" src="https://github.com/user-attachments/assets/113f695c-ba9f-4d4a-b0c8-c887a19620db" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/48c8c2a4-e441-4c0c-9012-d32c91fbba06" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1819acff-5171-4b0b-9964-2c75c61117a7" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/649f2abe-604a-4438-8c01-c866ac94bb7f" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/114b74c6-3b96-4636-a796-7105cd8fbefb" />
 
 *Comprehensive weather analytics with charts*
 ---
