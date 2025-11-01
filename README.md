@@ -138,6 +138,16 @@ npm run build
 
 ### Detailed View
 <img width="1366" alt="Detail View" src="https://github.com/user-attachments/assets/48c8c2a4-e441-4c0c-9012-d32c91fbba06" />
+### Detailed Weather View
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/48c8c2a4-e441-4c0c-9012-d32c91fbba06" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1819acff-5171-4b0b-9964-2c75c61117a7" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/649f2abe-604a-4438-8c01-c866ac94bb7f" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/114b74c6-3b96-4636-a796-7105cd8fbefb" />
+
+*Comprehensive weather analytics with charts*
 
 ---
 
